@@ -1,0 +1,97 @@
+
+
+#header{
+    background-color: blueviolet !important;
+    padding: 0;
+    
+}
+.body{
+    background-color: rgb(7, 7, 37);
+}
+
+#main .carousel-inner img{
+    max-height: 30vh;
+    object-fit: cover;
+    filter: grayscale(50%);
+}
+
+#APLogo {
+    width: 100px;
+}
+
+#logolinkedin {
+    width: 30px;
+}
+
+#logogithub {
+    width: 30px;
+    margin-right: 10px;
+}
+
+#login {
+margin-top: 10px;
+margin-left: 10px;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+
+.headerSection p{
+    background-color: blue;
+}
+
+#footer{
+    background-color: blueviolet;
+}
+
+#footer a{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#carrousel{
+    position: relative;
+}
+
+.overlay{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white
+}
+
+.overlay img{
+    float: left;
+    border-radius: 100%;
+    width: 22vh;
+    margin: 1%;
+    
+}
+.overlay h1{
+    margin-top: 2%;
+    font-size: 5vh;
+    text-align: left;
+    margin-left: 20%;
+}
+
+.overlay h2{
+    
+    font-size: 5vh;
+    text-align: left;
+    margin-left: 20%;
+}
+
+.overlay p{
+    text-align: left;
+    font-size: large;
+    margin-bottom: 15pc;
+    margin-left: 20%;
+}
+
+.contaier-nav{
+    font-size: 100px;!important
+}
+
